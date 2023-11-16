@@ -1,0 +1,6 @@
+
+ Writing to a file opened from program.
+
+ Writing to a file opened from program.
+
+ Writing to a file opened from program.
